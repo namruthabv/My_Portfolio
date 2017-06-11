@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://namruthabv.github.io/My_Portfolio/"
 relativeurls = true
 languageCode = "en-us"
 title = "A Hugo website"
